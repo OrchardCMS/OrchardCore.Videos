@@ -15,9 +15,9 @@
       "src/docs/reference/README.md",
       "src/docs/reference/glossary/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.5,
+    "words": 830,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -41,9 +41,9 @@
     "docs": [
       "src/docs/reference/modules/Setup/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 713,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -79,9 +79,9 @@
       "src/docs/reference/modules/Navigation/README.md",
       "src/docs/reference/modules/Notifications/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.5,
+    "words": 827,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -112,9 +112,9 @@
       "src/docs/reference/modules/Localize/README.md",
       "src/docs/reference/modules/Navigation/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 757,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -138,9 +138,9 @@
     "docs": [
       "src/docs/reference/modules/Settings/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 793,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -164,9 +164,9 @@
     "docs": [
       "src/docs/reference/modules/Features/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.1,
+    "words": 620,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -190,9 +190,9 @@
     "docs": [
       "src/docs/reference/modules/Features/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.4,
+    "words": 514,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -216,9 +216,9 @@
     "docs": [
       "src/docs/reference/modules/Admin/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 3.5,
-    "words": 0,
+    "words": 527,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -242,9 +242,9 @@
     "docs": [
       "src/docs/reference/modules/AdminDashboard/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 696,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -268,9 +268,9 @@
     "docs": [
       "src/docs/reference/modules/AdminMenu/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 789,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -294,9 +294,9 @@
     "docs": [
       "src/docs/getting-started/test-drive-orchard-core.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 665,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -325,9 +325,9 @@
       "src/docs/getting-started/templates/README.md",
       "src/docs/guides/create-cms-application/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 903,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -351,9 +351,9 @@
     "docs": [
       "src/docs/reference/modules/AutoSetup/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 719,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -377,9 +377,9 @@
     "docs": [
       "src/docs/topics/docker/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 722,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -403,9 +403,9 @@
     "docs": [
       "src/docs/getting-started/ai-quick-start.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 835,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -433,9 +433,9 @@
       "src/docs/getting-started/preview-package-source.md",
       "src/docs/topics/local-nuget-packages/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 673,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -461,9 +461,9 @@
       "src/docs/reference/modules/Contents/README.md",
       "src/docs/topics/content-management/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 722,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -487,9 +487,9 @@
     "docs": [
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 765,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -513,9 +513,9 @@
     "docs": [
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 714,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -539,9 +539,9 @@
     "docs": [
       "src/docs/reference/modules/ContentPreview/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.4,
+    "words": 515,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -567,9 +567,9 @@
       "src/docs/reference/modules/PublishLater/README.md",
       "src/docs/reference/modules/ArchiveLater/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.3,
+    "words": 642,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -595,9 +595,9 @@
       "src/docs/reference/modules/Html/README.md",
       "src/docs/reference/modules/Markdown/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 689,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -621,9 +621,9 @@
     "docs": [
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 534,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -649,9 +649,9 @@
       "src/docs/reference/modules/ContentTypes/README.md",
       "src/docs/reference/modules/ContentParts/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 781,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -675,9 +675,9 @@
     "docs": [
       "src/docs/reference/modules/ContentTypes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 808,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -701,9 +701,9 @@
     "docs": [
       "src/docs/reference/modules/ContentTypes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 742,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -729,9 +729,9 @@
       "src/docs/reference/modules/ContentTypes/README.md",
       "src/docs/reference/modules/ContentParts/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 684,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -757,9 +757,9 @@
       "src/docs/reference/modules/ContentTypes/README.md",
       "src/docs/reference/modules/Migrations/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 917,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -785,9 +785,9 @@
       "src/docs/reference/modules/Tenants/README.md",
       "src/docs/guides/content-definitions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 581,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -811,9 +811,9 @@
     "docs": [
       "src/docs/reference/modules/ContentFields/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.5,
+    "words": 977,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -839,9 +839,9 @@
       "src/docs/reference/modules/ContentFields/README.md",
       "src/docs/reference/modules/Markdown/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 751,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -865,9 +865,9 @@
     "docs": [
       "src/docs/reference/modules/ContentFields/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 742,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -897,9 +897,9 @@
       "src/docs/reference/modules/Elasticsearch/README.md",
       "src/docs/topics/content-relationships/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 842,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -923,9 +923,9 @@
     "docs": [
       "src/docs/reference/modules/Spatial/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 568,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -949,9 +949,9 @@
     "docs": [
       "src/docs/reference/modules/Title/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 676,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -975,9 +975,9 @@
     "docs": [
       "src/docs/reference/modules/Alias/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.3,
+    "words": 649,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1001,9 +1001,9 @@
     "docs": [
       "src/docs/reference/modules/CustomSettings/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 674,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1027,9 +1027,9 @@
     "docs": [
       "src/docs/reference/modules/Lists/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 744,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1053,9 +1053,9 @@
     "docs": [
       "src/docs/reference/modules/Lists/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 669,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1079,9 +1079,9 @@
     "docs": [
       "src/docs/reference/modules/Lists/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 598,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1106,9 +1106,9 @@
       "src/docs/reference/modules/Flow/BagPart.md",
       "src/docs/reference/modules/Flow/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 786,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1133,9 +1133,9 @@
       "src/docs/reference/modules/Flow/BagPart.md",
       "src/docs/reference/modules/Flow/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 681,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1160,9 +1160,9 @@
       "src/docs/reference/modules/Flow/BagPart.md",
       "src/docs/reference/modules/Flow/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 689,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1186,9 +1186,9 @@
     "docs": [
       "src/docs/reference/modules/Taxonomies/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.1,
+    "words": 614,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1212,9 +1212,9 @@
     "docs": [
       "src/docs/reference/modules/Taxonomies/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 757,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1238,9 +1238,9 @@
     "docs": [
       "src/docs/reference/modules/Taxonomies/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 751,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1264,9 +1264,9 @@
     "docs": [
       "src/docs/reference/modules/Taxonomies/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 603,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1290,9 +1290,9 @@
     "docs": [
       "src/docs/reference/modules/Taxonomies/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.4,
+    "words": 513,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1318,9 +1318,9 @@
       "src/docs/reference/modules/Taxonomies/README.md",
       "src/docs/guides/query-content-items-based-on-taxonomy/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 699,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1348,9 +1348,9 @@
       "src/docs/reference/modules/Media.Slugify/README.md",
       "src/docs/topics/media/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.2,
+    "words": 633,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1376,9 +1376,9 @@
       "src/docs/reference/modules/Media/README.md",
       "src/docs/reference/modules/Media.Slugify/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 901,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1406,9 +1406,9 @@
       "src/docs/reference/modules/Media.Slugify/README.md",
       "src/docs/topics/media/media-picker.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 846,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1434,9 +1434,9 @@
       "src/docs/reference/modules/Media/README.md",
       "src/docs/reference/modules/Media.Slugify/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 748,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1460,9 +1460,9 @@
     "docs": [
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 664,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1488,9 +1488,9 @@
       "src/docs/reference/modules/Media/README.md",
       "src/docs/reference/modules/Media.Slugify/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 705,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1517,9 +1517,9 @@
       "src/docs/reference/modules/Media.Slugify/README.md",
       "src/docs/reference/modules/Media/MediaGallery.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 776,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1543,9 +1543,9 @@
     "docs": [
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.5,
+    "words": 528,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1571,9 +1571,9 @@
       "src/docs/reference/modules/Media/README.md",
       "src/docs/reference/modules/Media.Slugify/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 814,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1598,9 +1598,9 @@
     "docs": [
       "src/docs/reference/modules/Media.Azure/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 851,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1625,9 +1625,9 @@
     "docs": [
       "src/docs/reference/modules/Media.AmazonS3/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 857,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1655,9 +1655,9 @@
       "src/docs/reference/core/file-upload-security.md",
       "src/docs/reference/core/temporary-file-storage.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 802,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1683,9 +1683,9 @@
       "src/docs/reference/modules/Menu/README.md",
       "src/docs/topics/navigation/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 748,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1709,9 +1709,9 @@
     "docs": [
       "src/docs/reference/modules/Menu/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 684,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1737,9 +1737,9 @@
       "src/docs/reference/modules/Navigation/README.md",
       "src/docs/reference/modules/Menu/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 841,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1763,9 +1763,9 @@
     "docs": [
       "src/docs/reference/modules/Autoroute/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 715,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1789,9 +1789,9 @@
     "docs": [
       "src/docs/reference/modules/Autoroute/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 741,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1817,9 +1817,9 @@
       "src/docs/reference/modules/HomeRoute/README.md",
       "src/docs/reference/modules/Autoroute/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 536,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1843,9 +1843,9 @@
     "docs": [
       "src/docs/reference/modules/UrlRewriting/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 815,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1869,9 +1869,9 @@
     "docs": [
       "src/docs/reference/modules/Seo/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 788,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1895,9 +1895,9 @@
     "docs": [
       "src/docs/reference/modules/Seo/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 3.5,
-    "words": 0,
+    "words": 519,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1921,9 +1921,9 @@
     "docs": [
       "src/docs/reference/modules/Sitemaps/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 854,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1948,9 +1948,9 @@
     "docs": [
       "src/docs/reference/modules/Sitemaps/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 594,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -1976,9 +1976,9 @@
       "src/docs/reference/modules/ContentLocalization/README.md",
       "src/docs/reference/modules/Sitemaps/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 591,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2004,9 +2004,9 @@
       "src/docs/reference/modules/Feeds/README.md",
       "src/docs/reference/modules/Lists/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 533,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2031,9 +2031,9 @@
     "docs": [
       "src/docs/reference/modules/Google/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 582,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2057,9 +2057,9 @@
     "docs": [
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 570,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2095,9 +2095,9 @@
       "src/docs/reference/modules/Flow/BagPart.md",
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 659,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2121,9 +2121,9 @@
     "docs": [
       "src/docs/getting-started/theme.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 853,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2147,9 +2147,9 @@
     "docs": [
       "src/docs/topics/display/theme-from-html-template.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 7.1,
+    "words": 1070,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2173,9 +2173,9 @@
     "docs": [
       "src/docs/reference/modules/Resources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 796,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2205,9 +2205,9 @@
       "src/docs/reference/modules/AdminMenu/README.md",
       "src/docs/reference/modules/Localize/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 782,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2232,9 +2232,9 @@
     "docs": [
       "src/docs/reference/modules/Liquid/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.4,
+    "words": 962,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2258,9 +2258,9 @@
     "docs": [
       "src/docs/reference/modules/Liquid/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 901,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2284,9 +2284,9 @@
     "docs": [
       "src/docs/reference/modules/Templates/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 869,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2310,9 +2310,9 @@
     "docs": [
       "src/docs/reference/modules/Templates/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.2,
+    "words": 631,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2337,9 +2337,9 @@
       "src/docs/reference/modules/Notifications/README.md",
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 706,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2363,9 +2363,9 @@
     "docs": [
       "src/docs/reference/modules/Liquid/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 656,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2389,9 +2389,9 @@
     "docs": [
       "src/docs/guides/create-liquid-widget/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 729,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2415,9 +2415,9 @@
     "docs": [
       "src/docs/reference/modules/Shortcodes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 572,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2441,9 +2441,9 @@
     "docs": [
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.3,
+    "words": 652,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2471,9 +2471,9 @@
       "src/docs/topics/display/README.md",
       "src/docs/topics/display/shapes.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.5,
+    "words": 975,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2497,9 +2497,9 @@
     "docs": [
       "src/docs/reference/modules/DisplayManagement/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 806,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2523,9 +2523,9 @@
     "docs": [
       "src/docs/reference/modules/Placement/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.6,
+    "words": 986,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2550,9 +2550,9 @@
     "docs": [
       "src/docs/reference/modules/Placements/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 664,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2576,9 +2576,9 @@
     "docs": [
       "src/docs/reference/modules/Razor/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 791,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2602,9 +2602,9 @@
     "docs": [
       "src/docs/reference/modules/Widgets/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 722,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2628,9 +2628,9 @@
     "docs": [
       "src/docs/reference/modules/Layers/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 847,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2654,9 +2654,9 @@
     "docs": [
       "src/docs/reference/modules/Rules/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 839,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2683,9 +2683,9 @@
       "src/docs/reference/modules/Facebook/README.md",
       "src/docs/guides/integrate-facebook-plugins/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 605,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2713,9 +2713,9 @@
       "src/docs/reference/modules/Indexing/README.md",
       "src/docs/topics/search/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 706,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2740,9 +2740,9 @@
     "docs": [
       "src/docs/reference/modules/Indexing/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 782,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2767,9 +2767,9 @@
     "docs": [
       "src/docs/reference/modules/Lucene/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 801,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2794,9 +2794,9 @@
     "docs": [
       "src/docs/reference/modules/Elasticsearch/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 736,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2820,9 +2820,9 @@
     "docs": [
       "src/docs/reference/modules/AzureAISearch/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 741,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2848,9 +2848,9 @@
       "src/docs/reference/modules/AzureAISearch/README.md",
       "src/docs/reference/modules/Queries/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 690,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2874,9 +2874,9 @@
     "docs": [
       "src/docs/reference/modules/Search/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 588,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2903,9 +2903,9 @@
     "docs": [
       "src/docs/reference/modules/Media/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 665,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2929,9 +2929,9 @@
     "docs": [
       "src/docs/guides/implement-fulltext-search/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 894,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2955,9 +2955,9 @@
     "docs": [
       "src/docs/guides/lucene-query-syntax/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 735,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -2981,9 +2981,9 @@
     "docs": [
       "src/docs/reference/modules/Indexing/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 879,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3008,9 +3008,9 @@
     "docs": [
       "src/docs/reference/modules/Queries/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 759,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3035,9 +3035,9 @@
       "src/docs/reference/modules/Queries/README.md",
       "src/docs/reference/modules/SQLIndexing/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 861,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3065,9 +3065,9 @@
       "src/docs/reference/modules/Elasticsearch/README.md",
       "src/docs/reference/modules/Queries/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 720,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3091,9 +3091,9 @@
     "docs": [
       "src/docs/reference/modules/Queries/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 727,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3119,9 +3119,9 @@
       "src/docs/reference/modules/SQLIndexing/README.md",
       "src/docs/reference/modules/ContentFields/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 707,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3147,9 +3147,9 @@
       "src/docs/reference/modules/Workflows/README.md",
       "src/docs/topics/workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.5,
+    "words": 828,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3177,9 +3177,9 @@
       "src/docs/reference/modules/Contents/README.md",
       "src/docs/reference/modules/Email/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 838,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3203,9 +3203,9 @@
     "docs": [
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 755,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3231,9 +3231,9 @@
       "src/docs/reference/modules/Workflows/README.md",
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 802,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3257,9 +3257,9 @@
     "docs": [
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.3,
+    "words": 652,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3283,9 +3283,9 @@
     "docs": [
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 606,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3309,9 +3309,9 @@
     "docs": [
       "src/docs/reference/modules/Scripting/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 837,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3338,9 +3338,9 @@
       "src/docs/reference/modules/Users/README.md",
       "src/docs/reference/modules/Users/TicketStore.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 677,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3366,9 +3366,9 @@
       "src/docs/reference/modules/Workflows/README.md",
       "src/docs/reference/modules/Scripting/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 894,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3392,9 +3392,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 688,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3421,9 +3421,9 @@
       "src/docs/reference/modules/Users/TicketStore.md",
       "src/docs/topics/security/users.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 763,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3450,9 +3450,9 @@
       "src/docs/reference/modules/Users/TicketStore.md",
       "src/docs/topics/security/login.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 695,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3480,9 +3480,9 @@
       "src/docs/reference/modules/Google/README.md",
       "src/docs/topics/security/registration.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 742,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3506,9 +3506,9 @@
     "docs": [
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 673,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3532,9 +3532,9 @@
     "docs": [
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.3,
+    "words": 498,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3562,9 +3562,9 @@
       "src/docs/reference/modules/Security/Permissions.md",
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 911,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3588,9 +3588,9 @@
     "docs": [
       "src/docs/reference/modules/Users/CustomUserSettings/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 714,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3615,9 +3615,9 @@
     "docs": [
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 552,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3643,9 +3643,9 @@
       "src/docs/guides/password-configuration/README.md",
       "src/docs/guides/lockout-configuration/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 573,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3669,9 +3669,9 @@
     "docs": [
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 3.5,
-    "words": 0,
+    "words": 527,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3699,9 +3699,9 @@
       "src/docs/reference/modules/Security/Permissions.md",
       "src/docs/topics/security/roles.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 811,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3728,9 +3728,9 @@
       "src/docs/reference/modules/Roles/README.md",
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 775,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3756,9 +3756,9 @@
       "src/docs/topics/security/README.md",
       "src/docs/topics/security/security-settings.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.4,
+    "words": 962,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3782,9 +3782,9 @@
     "docs": [
       "src/docs/reference/modules/Https/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 541,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3808,9 +3808,9 @@
     "docs": [
       "src/docs/reference/modules/Security/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 767,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3834,9 +3834,9 @@
     "docs": [
       "src/docs/reference/modules/Cors/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 666,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3861,9 +3861,9 @@
     "docs": [
       "src/docs/reference/modules/ReCaptcha/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 674,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3887,9 +3887,9 @@
     "docs": [
       "src/docs/reference/modules/RateLimits/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.3,
+    "words": 940,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3913,9 +3913,9 @@
     "docs": [
       "src/docs/reference/modules/ReverseProxy/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 543,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3939,9 +3939,9 @@
     "docs": [
       "src/docs/reference/modules/Sanitizer/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 586,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3965,9 +3965,9 @@
     "docs": [
       "src/docs/reference/modules/Secrets/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 881,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -3991,9 +3991,9 @@
     "docs": [
       "src/docs/reference/modules/Secrets/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 662,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4017,9 +4017,9 @@
     "docs": [
       "src/docs/reference/modules/Secrets/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 673,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4043,9 +4043,9 @@
     "docs": [
       "src/docs/reference/modules/Secrets/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 790,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4069,9 +4069,9 @@
     "docs": [
       "src/docs/reference/modules/AuditTrail/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 771,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4097,9 +4097,9 @@
       "src/docs/reference/modules/AuditTrail/README.md",
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 671,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4123,9 +4123,9 @@
     "docs": [
       "src/docs/reference/modules/AuditTrail/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 677,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4149,9 +4149,9 @@
     "docs": [
       "src/docs/reference/modules/Users/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 756,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4177,9 +4177,9 @@
       "src/docs/reference/modules/Microsoft.Authentication/README.md",
       "src/docs/guides/microsoft-entra-id-integration/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 840,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4203,9 +4203,9 @@
     "docs": [
       "src/docs/reference/modules/Microsoft.Authentication/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 538,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4229,9 +4229,9 @@
     "docs": [
       "src/docs/reference/modules/Google/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 579,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4256,9 +4256,9 @@
     "docs": [
       "src/docs/reference/modules/Facebook/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.5,
+    "words": 682,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4282,9 +4282,9 @@
     "docs": [
       "src/docs/reference/modules/GitHub/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 539,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4309,9 +4309,9 @@
     "docs": [
       "src/docs/reference/modules/X/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 749,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4335,9 +4335,9 @@
     "docs": [
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 750,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4361,9 +4361,9 @@
     "docs": [
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 901,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4387,9 +4387,9 @@
     "docs": [
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 850,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4413,9 +4413,9 @@
     "docs": [
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 807,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4439,9 +4439,9 @@
     "docs": [
       "src/docs/reference/modules/Media/MediaGallery.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 695,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4465,9 +4465,9 @@
     "docs": [
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 567,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4476,7 +4476,7 @@
     "release": "",
     "youtubeId": "",
     "publishedOn": "",
-    "notes": ""
+    "notes": "2026-11-12 content-ready: Before recording, answer question 1 of OPEN-QUESTIONS.md on a running site (does an RSA Key secret made in the admin work as the signing key?)"
   },
   {
     "slug": "openid-client-credentials-api",
@@ -4494,9 +4494,9 @@
       "src/docs/reference/modules/OpenId/README.md",
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 835,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4523,9 +4523,9 @@
       "src/docs/reference/modules/Localize/README.md",
       "src/docs/topics/localize/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 715,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4549,9 +4549,9 @@
     "docs": [
       "src/docs/reference/modules/ContentLocalization/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 861,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4575,9 +4575,9 @@
     "docs": [
       "src/docs/reference/modules/ContentLocalization/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 600,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4602,9 +4602,9 @@
     "docs": [
       "src/docs/reference/modules/Localize/javascript-localization.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 559,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4628,9 +4628,9 @@
     "docs": [
       "src/docs/reference/modules/DataLocalization/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 752,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4657,9 +4657,9 @@
       "src/docs/reference/modules/Localize/javascript-localization.md",
       "src/docs/reference/modules/Localize/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 785,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4685,9 +4685,9 @@
       "src/docs/reference/modules/Localize/javascript-localization.md",
       "src/docs/reference/modules/Localize/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 878,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4712,9 +4712,9 @@
       "src/docs/reference/modules/Localize/javascript-localization.md",
       "src/docs/reference/modules/Localize/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 3.5,
-    "words": 0,
+    "words": 530,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4740,9 +4740,9 @@
       "src/docs/reference/modules/Recipes/README.md",
       "src/docs/reference/modules/UrlRewriting/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 662,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4766,9 +4766,9 @@
     "docs": [
       "src/docs/reference/modules/Recipes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.9,
+    "words": 1029,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4792,9 +4792,9 @@
     "docs": [
       "src/docs/reference/modules/Deployment/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 662,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4818,9 +4818,9 @@
     "docs": [
       "src/docs/reference/modules/Deployment/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 796,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4844,9 +4844,9 @@
     "docs": [
       "src/docs/reference/modules/Deployment/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.6,
+    "words": 542,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4870,9 +4870,9 @@
     "docs": [
       "src/docs/reference/modules/Deployment.Remote/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 843,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4898,9 +4898,9 @@
     "docs": [
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 689,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4924,9 +4924,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 682,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4950,9 +4950,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 807,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -4976,9 +4976,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 730,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5002,9 +5002,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.3,
+    "words": 642,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5030,9 +5030,9 @@
       "src/docs/reference/modules/Tenants/README.md",
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 690,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5056,9 +5056,9 @@
     "docs": [
       "src/docs/reference/modules/Tenants/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 562,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5087,9 +5087,9 @@
       "src/docs/reference/modules/Configuration/README.md",
       "src/docs/topics/configuration/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.2,
+    "words": 923,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5114,9 +5114,9 @@
       "src/docs/reference/modules/Apis.GraphQL/README.md",
       "src/docs/reference/modules/Apis.GraphQL.Abstractions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 780,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5141,9 +5141,9 @@
       "src/docs/reference/modules/Apis.GraphQL/README.md",
       "src/docs/reference/modules/Apis.GraphQL.Abstractions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 691,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5168,9 +5168,9 @@
       "src/docs/reference/modules/Apis.GraphQL/README.md",
       "src/docs/reference/modules/Apis.GraphQL.Abstractions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 732,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5195,9 +5195,9 @@
       "src/docs/reference/modules/Apis.GraphQL/README.md",
       "src/docs/reference/modules/Apis.GraphQL.Abstractions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 701,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5222,9 +5222,9 @@
       "src/docs/reference/modules/Apis.GraphQL/README.md",
       "src/docs/reference/modules/Apis.GraphQL.Abstractions/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 921,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5248,9 +5248,9 @@
     "docs": [
       "src/docs/guides/decoupled-cms/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.5,
+    "words": 976,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5279,9 +5279,9 @@
       "src/docs/reference/modules/Cors/README.md",
       "src/docs/reference/modules/OpenId/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 885,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5305,9 +5305,9 @@
     "docs": [
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 770,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5334,9 +5334,9 @@
     "docs": [
       "src/docs/reference/modules/OpenApi/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 673,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5360,9 +5360,9 @@
     "docs": [
       "src/docs/guides/create-blazor-cms/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.8,
+    "words": 1025,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5387,9 +5387,9 @@
     "docs": [
       "src/docs/reference/modules/XmlRpc/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 588,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5415,9 +5415,9 @@
       "src/docs/reference/modules/Email/README.md",
       "src/docs/reference/modules/Email.Smtp/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 662,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5441,9 +5441,9 @@
     "docs": [
       "src/docs/reference/modules/Email.Azure/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 586,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5469,9 +5469,9 @@
       "src/docs/reference/modules/Sms/README.md",
       "src/docs/reference/modules/Sms.Azure/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 580,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5498,9 +5498,9 @@
       "src/docs/reference/modules/Notifications/README.md",
       "src/docs/reference/modules/Sms/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.0,
+    "words": 744,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5528,9 +5528,9 @@
       "src/docs/reference/modules/Sms/README.md",
       "src/docs/reference/modules/Notifications/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.5,
+    "words": 828,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5554,9 +5554,9 @@
     "docs": [
       "src/docs/reference/modules/Forms/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 865,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5580,9 +5580,9 @@
     "docs": [
       "src/docs/reference/modules/Forms/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 675,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5608,9 +5608,9 @@
       "src/docs/reference/modules/Forms/README.md",
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 909,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5636,9 +5636,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.9,
+    "words": 732,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5663,9 +5663,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 919,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5690,9 +5690,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.3,
+    "words": 797,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5717,9 +5717,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 661,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5746,9 +5746,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.0,
+    "words": 893,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5775,9 +5775,9 @@
       "src/docs/reference/modules/DataSources/README.md",
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.6,
+    "words": 690,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5802,9 +5802,9 @@
       "src/docs/reference/modules/DataPipelines/README.md",
       "src/docs/reference/modules/DataSources/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 864,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5828,9 +5828,9 @@
     "docs": [
       "src/docs/reference/modules/BackgroundTasks/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 701,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5854,9 +5854,9 @@
     "docs": [
       "src/docs/reference/modules/BackgroundTasks/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 888,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5880,9 +5880,9 @@
     "docs": [
       "src/docs/reference/modules/DynamicCache/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 866,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5912,9 +5912,9 @@
       "src/docs/reference/modules/AutoSetup/README.md",
       "src/docs/reference/modules/BackgroundTasks/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 910,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5938,9 +5938,9 @@
     "docs": [
       "src/docs/reference/modules/ResponseCompression/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 548,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5964,9 +5964,9 @@
     "docs": [
       "src/docs/reference/modules/MiniProfiler/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.4,
+    "words": 660,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -5993,9 +5993,9 @@
       "src/docs/reference/modules/SignalR/README.md",
       "src/docs/reference/modules/Media/MediaGallery.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.7,
+    "words": 710,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6019,9 +6019,9 @@
     "docs": [
       "src/docs/reference/modules/Diagnostics/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 588,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6045,9 +6045,9 @@
     "docs": [
       "src/docs/reference/modules/HealthChecks/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.8,
+    "words": 569,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6073,9 +6073,9 @@
       "src/docs/getting-started/templates/README.md",
       "src/docs/reference/modules/Logging.Serilog/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.1,
+    "words": 759,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6099,9 +6099,9 @@
     "docs": [
       "src/docs/reference/modules/OpenTelemetry/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 5.5,
-    "words": 0,
+    "words": 819,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6125,9 +6125,9 @@
     "docs": [
       "src/docs/reference/modules/Settings/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 551,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6157,9 +6157,9 @@
       "src/docs/reference/modules/ReverseProxy/README.md",
       "src/docs/guides/data-protection/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.9,
+    "words": 1028,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6185,9 +6185,9 @@
       "src/docs/reference/modules/Configuration/README.md",
       "src/docs/topics/configuration/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.1,
+    "words": 910,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6211,9 +6211,9 @@
     "docs": [
       "src/docs/reference/modules/KeyVault.Azure/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 578,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6241,9 +6241,9 @@
       "src/docs/topics/data/README.md",
       "src/docs/topics/data/yessql.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.4,
+    "words": 956,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6271,9 +6271,9 @@
       "src/docs/reference/modules/DataProtection.Azure/README.md",
       "src/docs/reference/modules/Redis/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 812,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6305,9 +6305,9 @@
       "src/docs/reference/modules/Lucene/README.md",
       "src/docs/reference/modules/Elasticsearch/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.6,
+    "words": 989,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6333,9 +6333,9 @@
       "src/docs/guides/create-install-custom-module/README.md",
       "src/docs/reference/modules/Modules/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 861,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6359,9 +6359,9 @@
     "docs": [
       "src/docs/guides/create-modular-application-mvc/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 844,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6385,9 +6385,9 @@
     "docs": [
       "src/docs/reference/modules/Migrations/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.4,
+    "words": 809,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6413,9 +6413,9 @@
       "src/docs/reference/modules/ContentParts/README.md",
       "src/docs/reference/modules/DisplayManagement/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.5,
+    "words": 972,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6439,9 +6439,9 @@
     "docs": [
       "src/docs/reference/modules/ContentFields/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 7.3,
+    "words": 1094,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6465,9 +6465,9 @@
     "docs": [
       "src/docs/reference/modules/Settings/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.6,
+    "words": 833,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6491,9 +6491,9 @@
     "docs": [
       "src/docs/guides/add-admin-menu/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 4.5,
-    "words": 0,
+    "words": 674,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6518,9 +6518,9 @@
       "src/docs/reference/modules/Roles/README.md",
       "src/docs/reference/modules/Security/Permissions.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 714,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6544,9 +6544,9 @@
     "docs": [
       "src/docs/topics/data/yessql.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 867,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6570,9 +6570,9 @@
     "docs": [
       "src/docs/reference/modules/Recipes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.2,
+    "words": 786,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6596,9 +6596,9 @@
     "docs": [
       "src/docs/reference/modules/Deployment/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 5.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.7,
+    "words": 858,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6622,9 +6622,9 @@
     "docs": [
       "src/docs/reference/modules/Workflows/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.9,
+    "words": 887,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6648,9 +6648,9 @@
     "docs": [
       "src/docs/reference/modules/Liquid/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.9,
+    "words": 589,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6674,9 +6674,9 @@
     "docs": [
       "src/docs/reference/modules/Scripting/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 725,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6700,9 +6700,9 @@
     "docs": [
       "src/docs/guides/run-code-on-startup/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.1,
+    "words": 614,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6726,9 +6726,9 @@
     "docs": [
       "src/docs/guides/leverage-csproj-meta-info/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.7,
+    "words": 554,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6752,9 +6752,9 @@
     "docs": [
       "src/docs/topics/source-generators/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.8,
+    "words": 727,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6778,9 +6778,9 @@
     "docs": [
       "src/docs/guides/encoding-settings/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 3,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 3.3,
+    "words": 496,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6813,9 +6813,9 @@
       "src/docs/reference/modules/Menu/README.md",
       "src/docs/reference/modules/Autoroute/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 7.0,
+    "words": 1048,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6846,9 +6846,9 @@
       "src/docs/reference/modules/Forms/README.md",
       "src/docs/reference/modules/Menu/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 7.5,
-    "words": 0,
+    "words": 1127,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6880,9 +6880,9 @@
       "src/docs/reference/modules/Media.Slugify/README.md",
       "src/docs/reference/modules/Search/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7.5,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 7.1,
+    "words": 1068,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6911,9 +6911,9 @@
       "src/docs/reference/modules/Widgets/README.md",
       "src/docs/reference/modules/Layers/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 6,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 5.8,
+    "words": 870,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6944,9 +6944,9 @@
       "src/docs/reference/modules/Security/Permissions.md",
       "src/docs/reference/modules/Contents/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.9,
+    "words": 1040,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -6974,9 +6974,9 @@
       "src/docs/reference/modules/Localize/README.md",
       "src/docs/reference/modules/ContentLocalization/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 7,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 6.2,
+    "words": 935,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -7000,9 +7000,9 @@
     "docs": [
       "src/docs/reference/modules/Themes/README.md"
     ],
-    "status": "planned",
-    "estimatedMinutes": 4,
-    "words": 0,
+    "status": "content-ready",
+    "estimatedMinutes": 4.0,
+    "words": 600,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
@@ -7031,9 +7031,9 @@
       "src/docs/reference/modules/Queries/README.md",
       "src/docs/reference/modules/Cors/README.md"
     ],
-    "status": "planned",
+    "status": "content-ready",
     "estimatedMinutes": 7.5,
-    "words": 0,
+    "words": 1126,
     "contentCommit": "",
     "recordedBy": "",
     "recordedOn": "",
